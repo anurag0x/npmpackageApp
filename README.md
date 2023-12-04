@@ -27,15 +27,15 @@ This project is a web application built using React, TypeScript, and Tailwind CS
 1. Clone the repository:
 
 ```shell
-git clone <repository-url>
+  git clone <repository-url>
    ```
 2. Install Dependencies:
 
 ```shell
-npm install
+  npm install
 ```
 3. Run The Application:
 
 ```shell
-npm start
+  npm start
 ```
