@@ -27,8 +27,8 @@ This project is a web application built using React, TypeScript, and Tailwind CS
 1. Clone the repository:
 
   ```shell
-  git clone <repository-url>
-   ```
+  git clone "https://github.com/anurag0x/npmpackageApp.git"
+  ```
 2. Install Dependencies:
 
   ```shell
